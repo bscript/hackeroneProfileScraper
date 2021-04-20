@@ -152,11 +152,5 @@ SELECT COUNT(*) FROM `profiles` WHERE reputation BETWEEN 10 AND 150
 
 ![chart (4)](https://user-images.githubusercontent.com/43368124/74353015-f86ad800-4dc1-11ea-920c-04549a89866c.png)
 
-Great, no ?
 
----
-
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/bohrhadi)
-
-<img src="https://user-images.githubusercontent.com/43368124/74347021-1f70dc00-4db9-11ea-96a6-42809d8878f1.png" align="" height="100" width="100">
 
